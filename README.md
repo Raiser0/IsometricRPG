@@ -1,6 +1,6 @@
 Kontroller
 
-Hareket: WASD tuşları ile karakterinizi hareket ettirin.
+Hareket: Sol tık ile ilerleyin.
 
 Saldırı: Sol tıklama ile düşmana saldırın.
 
@@ -9,7 +9,7 @@ Görev: İlk görev, kapıya ilerleyin.
 
 Controls
 
-Movement: Use the WASD keys to move your character.
+Movement: Left-click to move.
 
 Attack: Left-click to attack the enemy.
 
