@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Build Demo/Scenes/Menu.unity
+    guid: 4c050d7b60e898748a592f10df27ae5f
+  - enabled: 1
+    path: Assets/IgnoreRepo/Polyquest Worlds Full Pack Vol.1/scenes/Example.unity
+    guid: fbb6b16c7e1445b4a873f9d58ad96d8f
+  - enabled: 1
+    path: Assets/Build Demo/Scenes/Example_02_1v1.unity
+    guid: 246b8478c764ef546842d39b7c5fb877
+  - enabled: 0
+    path: Assets/Build Demo/EmptyLoader.unity
+    guid: 7f2126034534b8f4a9c79ff9cf06acfb
+  - enabled: 0
+    path: Assets/GWLPXL/Action Character/ActionCharacter/Scenes/Demo_01.unity
+    guid: e9ba55b1ee136ba49a90c1fd03ef4e38
+  - enabled: 0
+    path: Assets/GWLPXL/Action Character/Addons/UnityNewInput/Scenes/NewUnityDemo.unity
+    guid: 61eccc3b05eae8946b8b384dcbaa9c7e
+  - enabled: 0
+    path: Assets/GWLPXL/Action Character/External Integrations/Guzman_ActionCharacter/Scenes/GuzmanScene_Mobile.unity
+    guid: b0740fcb6eaa5bc4990807d4663d7698
+  - enabled: 0
+    path: Assets/GWLPXL/Action Character/External Integrations/Guzman_ActionCharacter/Scenes/GuzmanScene_WithReactions.unity
+    guid: 776ed6f600653f24f9ba9e4435c966be
+  - enabled: 0
+    path: Assets/GWLPXL/Action Character/External Integrations/Mirror/Scenes/Demo_01_Mirror.unity
+    guid: 4e9b7cd1fe8b2194a8e178a7adb17b70
+  m_configObjects: {}
